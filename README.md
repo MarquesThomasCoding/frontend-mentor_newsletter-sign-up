@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/MarquesThomasCoding/frontend-mentor_newsletter-sign-up)
-- Live Site URL: [Add live site URL here](https://MarquesThomasCoding.github.io/frontend-mentor_newsletter-sign-up)
+- Live Site URL: [Add live site URL here](https://marquesthomascoding.github.io/frontend-mentor_newsletter-sign-up/)
 
 ## My process
 
